@@ -1,0 +1,9 @@
+Configure project to use Tailwind CSS for styling
+
+Add Tailwind CSS to the project by modifying vite.config.js and src/index.css.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: c7dfef96-5e5c-45a3-8376-5e6b0628891a
+Replit-Commit-Checkpoint-Type: intermediate_checkpoint
+Replit-Commit-Event-Id: 93d361d5-1dca-4af0-a3b9-f744634a336f
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/c20f0f29-7573-4ce0-b3e1-498bfe86e47f/c7dfef96-5e5c-45a3-8376-5e6b0628891a/RxSPl3N
